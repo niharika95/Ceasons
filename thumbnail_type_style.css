@@ -1,0 +1,21 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.head-supp{
+	background-color: #a20315;
+	height: 100px;
+	width: 100%;
+	position: fixed;
+}
+
+#ceasons{
+	text-align: center;
+	font-size: 80px;
+	color: white;
+	font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+.text{
+	font-size: 100px;
+}

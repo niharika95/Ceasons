@@ -1,0 +1,69 @@
+.cont{
+	height: 500px;
+	background: url('bg.jpg') no-repeat center center fixed;
+	background-size: cover;
+	margin-left: 60px;
+	margin-right: 60px;
+	padding-top: 100px;
+}
+.head-supp ul{
+	float: right;
+	display: inline;
+}
+#band1{
+	font-size: 50px;
+	color: white;
+	padding: 30px;
+	text-align: center;
+	position: relative;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+
+.supp{
+	height: 150px;
+}
+
+.foot-supp{
+	height: 200px;
+}
+
+#foot{
+	color: white;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+
+.head-supp{
+	background-color:   #a20315;
+	height: 100px;
+	width: 100%;
+	z-index: 1;
+	position: fixed;
+}
+
+#ceasons{
+	text-align: center;
+	font-size: 80px;
+	color: white;
+	font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+#heading{
+	margin-left: 500px;
+	margin-top: 110px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-size: 50px;
+	position: absolute;
+	color: #af0e38;
+}
+
+#content{
+	margin-left: 500px;
+	margin-top: 180px;
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+	font-size: 20px;
+	position: absolute;
+	width: 450px;
+	text-align: justify;
+	color: #e53870;
+}
